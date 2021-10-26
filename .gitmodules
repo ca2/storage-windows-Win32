@@ -1,3 +1,9 @@
 [submodule "basis"]
 	path = basis
 	url = ../storage-windows-Win32-basis
+[submodule "stage"]
+	path = stage
+	url = ../storage-windows-Win32-stage
+[submodule "cover"]
+	path = cover
+	url = ../storage-windows-Win32-stage
