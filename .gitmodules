@@ -10,3 +10,6 @@
 [submodule "cube_basis"]
 	path = cube_basis
 	url = ../storage-windows-Win32-cube_basis
+[submodule "cube_stage"]
+	path = cube_stage
+	url = ../storage-windows-Win32-cube_stage
