@@ -4,9 +4,6 @@
 [submodule "stage"]
 	path = stage
 	url = ../storage-windows-Win32-stage
-[submodule "cover"]
-	path = cover
-	url = ../storage-windows-Win32-stage
 [submodule "cube_basis"]
 	path = cube_basis
 	url = ../storage-windows-Win32-cube_basis
