@@ -4,9 +4,3 @@
 [submodule "release"]
 	path = release
 	url = ../storage-windows-Win32-release
-[submodule "static_debug"]
-	path = static_debug
-	url = ../storage-windows-Win32-static_debug
-[submodule "static_release"]
-	path = static_release
-	url = ../storage-windows-Win32-static_release
